@@ -1,7 +1,7 @@
 # Revenue Leakage & Market Analysis Dashboard 📊
 
-![Dashboard Screenshot](link-to-your-image.png)
-*(Note: Replace the link above with your actual screenshot)*
+![Dashboard Screenshot]([link-to-your-image.png](https://github.com/user-attachments/assets/45698432-1784-4289-996a-c534d52a6a5b))
+
 
 ## 📌 Project Overview
 **The Context:**
