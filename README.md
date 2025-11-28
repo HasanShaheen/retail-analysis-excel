@@ -34,7 +34,7 @@ I developed a full-stack Excel BI solution using Power Query (ETL) and Power Piv
 1.  Download the file `Online_Retail_Analysis.xlsx` from this repository.
 2.  Open the file and click **"Enable Content"** to allow the Data Model to load.
 3.  Go to the **"Executive Dashboard"** tab.
-4.  Use the Slicers on the left to filter by Year (2010/2011) or Country.
+4.  Use the Slicers to filter by Year (2010/2011) or Country.
 
 ---
 
